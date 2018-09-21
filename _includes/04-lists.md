@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- 打篮球
+- 听音乐
+- 学习
+- 吃
